@@ -13,3 +13,4 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+Testing making a change to the source code to trigger a successful build of the train-schedule project.
